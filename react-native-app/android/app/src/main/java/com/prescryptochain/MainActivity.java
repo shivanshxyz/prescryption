@@ -1,4 +1,4 @@
-package com.prescryptochain;
+package com.prescryption;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

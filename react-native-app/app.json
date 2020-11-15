@@ -1,9 +1,9 @@
 {
-  "name": "prescryptochain",
-  "displayName": "prescryptochain",
+  "name": "prescryption",
+  "displayName": "prescryption",
   "expo": {
-    "name": "prescryptochain",
-    "slug": "prescryptochain",
+    "name": "prescryption",
+    "slug": "prescryption",
     "version": "1.0.0",
     "platforms": [
       "ios",

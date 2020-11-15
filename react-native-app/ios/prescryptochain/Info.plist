@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>prescryptochain</string>
+	<string>prescryption</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -57,26 +57,26 @@
 		</dict>
 	</dict>
 	<key>NSCalendarsUsageDescription</key>
-	<string>Allow prescryptochain to access your calendar</string>
+	<string>Allow prescryption to access your calendar</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Allow prescryptochain to use the camera</string>
+	<string>Allow prescryption to use the camera</string>
 	<key>NSContactsUsageDescription</key>
-	<string>Allow prescryptochain experiences to access your contacts</string>
+	<string>Allow prescryption experiences to access your contacts</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Allow prescryptochain to use your location</string>
+	<string>Allow prescryption to use your location</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Allow prescryptochain to use your location</string>
+	<string>Allow prescryption to use your location</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Allow prescryptochain to use your location</string>
+	<string>Allow prescryption to use your location</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Allow prescryptochain to access your microphone</string>
+	<string>Allow prescryption to access your microphone</string>
 	<key>NSMotionUsageDescription</key>
-	<string>Allow prescryptochain to access your device's accelerometer</string>
+	<string>Allow prescryption to access your device's accelerometer</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Give prescryptochain periences permission to save photos</string>
+	<string>Give prescryption periences permission to save photos</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Give prescryptochain periences permission to access your photos</string>
+	<string>Give prescryption periences permission to access your photos</string>
 	<key>NSRemindersUsageDescription</key>
-	<string>Allow prescryptochain to access your reminders</string>
+	<string>Allow prescryption to access your reminders</string>
 </dict>
 </plist>

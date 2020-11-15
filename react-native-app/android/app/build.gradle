@@ -130,7 +130,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.prescryptochain"
+        applicationId "com.prescryption"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
